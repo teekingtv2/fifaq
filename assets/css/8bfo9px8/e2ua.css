@@ -1,0 +1,32 @@
+@charset "UTF-8";
+ :root {
+--main: #CBFB45;
+--secondary: #161617;
+--neutral: #232325;
+--darker: #000000;
+--text: #898990;
+--whiter: #F3F3F3;
+--white: #ffffff;
+--dark: #151517;
+--green: #70833C;
+--heading: #f3f3f3;
+--body: #898990;
+--bodybg: #ffffff;
+--btn-color: #151517;
+--btn-color2: #F3F3F3;
+--btn-bgcolor: #CBFB45;
+--e-global-color-primary: #CBFB45;
+--e-global-color-secondary: #ffffff;
+--menu-color: #ffffff;
+}
+.btn-theme {
+background: var(--main);
+color: #ffffff;
+height: 50px;
+padding: 0 40px;
+text-align: center;
+line-height: 50px;
+}
+button.btn-theme {
+border: 0;
+}

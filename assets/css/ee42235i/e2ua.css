@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Apfel Grotezk';
+src: url(../../../themes/crypteck/assets/font/apfelgrotezk/ApfelGrotezk-Regular.eot);
+src: url(../../../themes/crypteck/assets/font/apfelgrotezk/ApfelGrotezk-Regulard41d.eot?#iefix) format('embedded-opentype'),
+url(../../../themes/crypteck/assets/font/apfelgrotezk/ApfelGrotezk-Regular.woff2) format('woff2'),
+url(../../../themes/crypteck/assets/font/apfelgrotezk/ApfelGrotezk-Regular.woff) format('woff'),
+url(../../../themes/crypteck/assets/font/apfelgrotezk/ApfelGrotezk-Regular.ttf) format('truetype'),
+url(../../../themes/crypteck/assets/font/apfelgrotezk/ApfelGrotezk-Regular.svg#ApfelGrotezk-Regular) format('svg');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}

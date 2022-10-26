@@ -1,0 +1,24 @@
+@font-face {
+font-family: 'Neue Machina';
+src: url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Ultrabold.eot);
+src: url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Ultraboldd41d.eot?#iefix) format('embedded-opentype'),
+url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Ultrabold.woff2) format('woff2'),
+url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Ultrabold.woff) format('woff'),
+url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Ultrabold.ttf) format('truetype'),
+url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Ultrabold.svg#NeueMachina-Ultrabold) format('svg');
+font-weight: bold;
+font-style: normal;
+font-display: swap;
+}
+@font-face {
+font-family: 'Neue Machina';
+src: url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Regular.eot);
+src: url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Regulard41d.eot?#iefix) format('embedded-opentype'),
+url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Regular.woff2) format('woff2'),
+url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Regular.woff) format('woff'),
+url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Regular.ttf) format('truetype'),
+url(../../../themes/crypteck/assets/font/neuemachina/NeueMachina-Regular.svg#NeueMachina-Regular) format('svg');
+font-weight: normal;
+font-style: normal;
+font-display: swap;
+}
